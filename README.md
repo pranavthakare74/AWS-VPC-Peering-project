@@ -85,7 +85,7 @@ Connectivity was verified by pinging the private IP address of the EC2 instance 
 ![VPC2](VPC2.png)
 
 ### VPC Peering Connection
-![Peering](.png)
+![Peering](VP.png)
 
 ### Route Table Configuration
 ![Route Table](RT.png)
