@@ -82,7 +82,7 @@ Connectivity was verified by pinging the private IP address of the EC2 instance 
 ![VPC1](VPC1.png)
 
 ### VPC 2
-![VPC2](screenshots/vpc2.png)
+![VPC2](VPC2.png)
 
 ### VPC Peering Connection
 ![Peering](screenshots/peering.png)
