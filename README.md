@@ -79,7 +79,7 @@ Connectivity was verified by pinging the private IP address of the EC2 instance 
 ## Screenshots
 
 ### VPC 1
-![VPC1](screenshots/vpc1.png)
+![VPC1](VPC1.png)
 
 ### VPC 2
 ![VPC2](screenshots/vpc2.png)
