@@ -85,13 +85,13 @@ Connectivity was verified by pinging the private IP address of the EC2 instance 
 ![VPC2](VPC2.png)
 
 ### VPC Peering Connection
-![Peering](screenshots/peering.png)
+![Peering](.png)
 
 ### Route Table Configuration
-![Route Table](screenshots/route-table.png)
+![Route Table](RT.png)
 
 ### Connectivity Test
-![Ping Test](screenshots/ping-test.png)
+![Ping Test](PT.png)
 
 ---
 
